@@ -26,10 +26,7 @@ void loop(){
   myservo.write (76);// uncomment to activate the buzzer function
   delay (500);
   myservo.write(100);
-  delay(10000);
+  delay(20000);
  }
 
  }
-
-
-
